@@ -17,7 +17,7 @@
             <li><span class="material-symbols-outlined">meeting_room</span><a href="#">Department</a></li>
             <li><span class="material-symbols-outlined">library_books</span><a href="#">Training and Learning</a></li>
             <li><span class="material-symbols-outlined">event</span><a href="#">Calendar and Planning</a></li>
-        </ul>
+        </ul> 
         <ul>
             <li>Other</li>
             <li><span class="material-symbols-outlined">settings</span><a href="#">Settings</a></li>
